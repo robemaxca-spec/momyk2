@@ -1,0 +1,126 @@
+{
+  "site": {
+    "name": "Blessins Global Solutions",
+    "tagline": "Empowering Your Brand",
+    "email": "info@blessins.uk",
+    "phone": "+44 7878671236",
+    "address": "28, ST Thomas Gardens, Ilford, IG1 2PQ London, United Kingdom",
+    "theme": {
+      "primary_color": "#d4af37",
+      "secondary_color": "#0d141a",
+      "font_primary": "Poppins",
+      "font_secondary": "Open Sans"
+    }
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "title": "Empowering Your Brand",
+      "meta_description": "Expert social media marketing solutions for your business.",
+      "sections": [
+        {
+          "type": "hero",
+          "heading": "Empowering Your Brand",
+          "subtext": "Expert social media marketing solutions for your business.",
+          "cta": ["Contact Us", "Our Portfolio"],
+          "image": "https://images.unsplash.com/photo-1690191886622-fd8d6cda73bd"
+        },
+        {
+          "type": "about_preview",
+          "heading": "About Blessins Global Solutions",
+          "content": "Your trusted partner in social media marketing, delivering results with expertise and innovation.",
+          "image": "https://images.unsplash.com/photo-1567005197762-1dcee73e230d"
+        },
+        {
+          "type": "stats",
+          "items": [
+            {"value": "150+", "label": "Trusted Clients"},
+            {"value": "15", "label": "Proven Results"}
+          ]
+        },
+        {
+          "type": "cta_banner",
+          "heading": "Ready to grow your brand?",
+          "subtext": "Get in touch with Blessins Global Solutions today.",
+          "cta": ["Get in Touch"],
+          "background": "https://images.unsplash.com/photo-1676276374803-36e48196d5ac"
+        }
+      ]
+    },
+    {
+      "name": "About",
+      "title": "About Blessins Global Solutions",
+      "meta_description": "We are a UK-based social media marketing agency, delivering results through creativity and strategy.",
+      "content": "Blessins Global Solutions is a UK-based social media marketing agency with an experienced team dedicated to building brands and driving measurable results.",
+      "testimonial": {
+        "name": "John D.",
+        "quote": "Blessins Global Solutions transformed our social media presence remarkably!",
+        "rating": "★★★★★"
+      },
+      "location": "28, ST Thomas Gardens, Ilford, IG1 2PQ London, United Kingdom",
+      "images": [
+        "https://images.unsplash.com/photo-1676276376385-3801c9f0a68e",
+        "https://images.unsplash.com/photo-1605507410299-a6840038236e"
+      ]
+    },
+    {
+      "name": "Services",
+      "title": "Expert Social Media Marketing Services",
+      "meta_description": "Tailored marketing packages to elevate your brand's online presence and engagement.",
+      "intro": "We offer innovative social media marketing strategies customized for each client's unique needs.",
+      "services": [
+        {
+          "name": "Consulting",
+          "description": "Tailored marketing strategies for your business growth.",
+          "image": "https://images.unsplash.com/photo-1690191886622-fd8d6cda73bd"
+        },
+        {
+          "name": "Content Creation",
+          "description": "Engaging social media posts, visuals, and campaigns that resonate with your audience.",
+          "image": "https://images.unsplash.com/photo-1676276374803-36e48196d5ac"
+        },
+        {
+          "name": "Analytics",
+          "description": "Data-driven insights that improve campaign performance and ROI.",
+          "image": "https://images.unsplash.com/photo-1674027392842-29f8354e236c"
+        }
+      ]
+    },
+    {
+      "name": "Packages",
+      "title": "Affordable Marketing Packages",
+      "meta_description": "Explore diverse marketing packages tailored for your business needs.",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "£199/month",
+          "features": ["Social Media Setup", "1 Platform", "Monthly Report"]
+        },
+        {
+          "name": "Growth",
+          "price": "£499/month",
+          "features": ["3 Platforms", "Weekly Posts", "Engagement Reports"]
+        },
+        {
+          "name": "Elite",
+          "price": "£999/month",
+          "features": ["Full Campaign Management", "Paid Ads", "Dedicated Account Manager"]
+        }
+      ],
+      "cta": "Get in touch for tailored marketing packages.",
+      "image": "https://images.unsplash.com/photo-1599326014852-e083419b6f65"
+    },
+    {
+      "name": "Contact",
+      "title": "Get in Touch",
+      "description": "We'd love to hear from you. Let's build something amazing together!",
+      "email": "info@blessins.uk",
+      "phone": "+44 7878671236",
+      "address": "28, ST Thomas Gardens, Ilford, IG1 2PQ London, United Kingdom",
+      "socials": {
+        "facebook": "https://facebook.com/blessinsglobal",
+        "instagram": "https://instagram.com/blessinsglobal"
+      }
+    }
+  ]
+}
